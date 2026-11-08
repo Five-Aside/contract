@@ -1,0 +1,7 @@
+/target
+.soroban
+.stellar
+.env
+.env.*
+!.env.example
+*.rs.bk
